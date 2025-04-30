@@ -1,5 +1,9 @@
 package br.dev.andre.temperatura.model;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+
 public class Temperatura {
 
 	private double celsius;
@@ -23,5 +27,21 @@ public class Temperatura {
 		return Kelvin;
 		
 		
+
+			
+
+		
+	
+	
+	}
+
+	public void setKelvin() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public String[] mostrarTemperatura() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

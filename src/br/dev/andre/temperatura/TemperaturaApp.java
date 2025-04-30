@@ -7,7 +7,6 @@ public class TemperaturaApp {
 		public static void main(String[] args) {
 			TelaConversor tela = new TelaConversor();
 			tela.criarTelaConversor("Conversor DS1M-A");
-
 	}
 
 }
